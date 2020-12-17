@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -26,6 +27,19 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.ContainerInput {
+  margin: auto;
+  max-width: 70%;
+  padding: 10px;
+}
+
+.inputs {
+  width: 100%;
+  border-radius: 8px;
+  padding: 10px 15px;
+  resize: none;
 }
 
 @keyframes App-logo-spin {
